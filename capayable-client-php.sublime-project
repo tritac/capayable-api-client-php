@@ -1,0 +1,13 @@
+{
+	"folders":
+	[
+		{
+			"folder_exclude_patterns":
+			[
+				"aspnet_client"
+			],
+			"follow_symlinks": true,
+			"path": "."
+		}
+	]
+}

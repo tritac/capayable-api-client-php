@@ -1,0 +1,20 @@
+{
+    "name": "tritac/capayable-api-client",
+    "description": "Capayable API Client Package",
+    "authors": [
+        {
+            "name": "Christiaan de Ridder",
+            "email": "christiaan@tritac.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0",
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "CapayableApiClient\\" : "src/CapayableApiClient/"
+        }
+    }
+}
