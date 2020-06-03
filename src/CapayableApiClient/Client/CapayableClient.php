@@ -36,7 +36,7 @@ namespace CapayableApiClient\Client {
 		const PROD_URL 			= 'https://capayable-api.tritac.com';
 
 		const VERSION_PATH 		= '/v1';
-		const CERTIFICATE_PATH	= 'AddTrustExternalCARoot.crt';
+		const CERTIFICATE_PATH	= 'AAACertificateServices.crt';
 
         const CREDITCHECK_PATH	= '/creditcheck';
         const INVOICE_PATH		= '/invoice';
